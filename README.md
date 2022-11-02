@@ -3,7 +3,7 @@ A roam/render component for Roam Research that shows what weekday it is
 
 ## How it works
 
-When you use this component **inside** of a Daily Note page, it'll tell you the corresponding day of the week. 
+When you use this component **inside of a Daily Note page**, it'll tell you the corresponding day of the week. 
 
 The code can be found inside the core.cljs file.
 
