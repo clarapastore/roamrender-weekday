@@ -12,4 +12,4 @@ When you use this component **inside** of a Daily Note page, it'll tell you the 
 
 ## Installation
 
-For installing this roam/render component, refer to the instructions laid out in this repository (the code is different, but the installation and usage instructions are the same).
+For installing this roam/render component, refer to the instructions laid out in [this repository](https://github.com/clarapastore/youglish-roam-dutch/blob/main/README.md) (the code is different, but the installation and usage instructions are the same).
