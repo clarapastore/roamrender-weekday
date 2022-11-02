@@ -14,4 +14,4 @@ The code can be found inside the core.cljs file.
 
 ## Installation
 
-For installing this roam/render component, refer to the instructions laid out in [this repository](https://github.com/clarapastore/youglish-roam-dutch/blob/main/README.md) (the code is different, but the installation and usage instructions are the same).
+For installing this roam/render component, refer to the instructions laid out in [this repository](https://github.com/clarapastore/youglish-roam-dutch/blob/main/README.md#installation) (the code is different, but the installation and usage instructions are the same).
