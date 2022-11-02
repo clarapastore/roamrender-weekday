@@ -7,6 +7,8 @@ When you use this component **inside** of a Daily Note page, it'll tell you the 
 
 ##Demo
 
+![](https://github.com/clarapastore/roamrender-whatdayistoday/blob/main/demo.gif)
+
 
 ##Installation
 
