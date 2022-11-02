@@ -5,7 +5,7 @@ A roam/render component for Roam Research that shows what weekday it is
 
 When you use this component **inside** of a Daily Note page, it'll tell you the corresponding day of the week. 
 
-##Demo
+## Demo
 
 ![](https://github.com/clarapastore/roamrender-whatdayistoday/blob/main/demo.gif)
 
